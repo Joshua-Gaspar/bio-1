@@ -59,8 +59,8 @@ a:focus {
   border-bottom: 3px solid;
 }
 
-/* ///////////////////////////////// Home section */
-.bio-container {
+/* ///////////////////// Home and hobby section */
+.hobby-container {
   display: flex;
 }
 .container {
@@ -87,8 +87,6 @@ img {
   width: 300px;
 }
 
-/* ///////////////////////////////// Projects Section */
-
 .text-box {
   width: 40%;
   text-align: justify;
@@ -98,10 +96,6 @@ img {
   padding: 30px;
 }
 
-p {
-  margin: 0;
-  line-height: 25px;
-}
 
 /* ///////////////////////////////// Contact Section */
 .fab {
