@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="textbook.xsl"?>
+<textbooks>
+    <textbook>
+        <title>Modern Software Engineering</title>
+        <authors>
+            <author>
+                <firstName>David</firstName>
+                <lastName>Farley</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Addison-Wesley Professional</name>
+            <website>https://www.pearson.com/</website>
+        </publisher>
+        <Year-of-Publication>2021</Year-of-Publication>
+        <ISBN>978-0137314911</ISBN>
+        <book-specific-website></book-specific-website>
+        <edition>1</edition>
+        <cover-type>Paperback</cover-type>
+    </textbook>
+        <textbook>
+        <title>Applied Statistics and Probability for Engineers</title>
+        <authors>
+            <author>
+                <firstName>Douglas</firstName>
+                <lastName>Montgomery</lastName>
+            </author>
+            <author>
+                <firstName>George</firstName>
+                <lastName>Runger</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Wiley</name>
+            <website>https://www.wiley.com/en-us</website>
+        </publisher>
+        <Year-of-Publication>2006</Year-of-Publication>
+        <ISBN>978-0471745891</ISBN>
+        <book-specific-website>https://www.amazon.com/Applied-Statistics-Probability-Engineers-Montgomery/dp/0471745898</book-specific-website>
+        <edition>4</edition>
+        <cover-type>Hardcover</cover-type>
+    </textbook>
+</textbooks>
